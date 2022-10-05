@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuangge Wang | Academic</title>
+    <link>https://example.com/authors/shuangge-wang/</link>
+      <atom:link href="https://example.com/authors/shuangge-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuangge Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shuangge Wang</title>
+      <link>https://example.com/authors/shuangge-wang/</link>
+    </image>
+    
+    <item>
+      <title>Active Probing and Influencing Human Behaviors Via Autonomous Agents</title>
+      <link>https://example.com/publication/icra/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Trading on a Dynamic Curve Automated Market Maker</title>
+      <link>https://example.com/publication/icbc/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

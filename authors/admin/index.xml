@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuangge Wang | Academic</title>
+    <link>https://example.com/authors/admin/</link>
+      <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuangge Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/admin/avatar_hue86e8e5fd56efe2845f5c185944ff1b3_170548_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shuangge Wang</title>
+      <link>https://example.com/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
