@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiwei Lyu | Academic</title>
-    <link>https://wshuangge.github.io/authors/yiwei-lyu/</link>
-      <atom:link href="https://wshuangge.github.io/authors/yiwei-lyu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/yiwei-lyu/</link>
+      <atom:link href="https://example.com/authors/yiwei-lyu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiwei Lyu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wshuangge.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yiwei Lyu</title>
-      <link>https://wshuangge.github.io/authors/yiwei-lyu/</link>
+      <link>https://example.com/authors/yiwei-lyu/</link>
     </image>
     
     <item>
       <title>Active Probing and Influencing Human Behaviors Via Autonomous Agents</title>
-      <link>https://wshuangge.github.io/publication/icra/</link>
+      <link>https://example.com/publication/icra/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://wshuangge.github.io/publication/icra/</guid>
+      <guid>https://example.com/publication/icra/</guid>
       <description></description>
     </item>
     
